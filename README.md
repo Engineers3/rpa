@@ -17,3 +17,5 @@ End Sub-------------------------------
 ->open microsoft exceel sheet
 - > enabling vbs doc in excel :
 file -> options -> trust center ->trust center settings -> macro settings -> trust and enable vpa
+  >
+  > api key :hOe2lAYoLMcsDzGdZ2wEfRaQcdcEpRzLK7F2pIWCtIvScELiTaTj6/NhBgv8F1VFIExeEFeWYPfUToMihauIXg==
